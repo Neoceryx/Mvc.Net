@@ -1,0 +1,14 @@
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.DAL\bin\Debug\App.DAL.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.DAL\bin\Debug\App.DAL.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.DAL\obj\Debug\App.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.DAL\obj\Debug\App.DAL.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.DAL\obj\Debug\App.DAL.pdb
+C:\Users\rio\Desktop\AppTemplate\App.DAL\bin\Debug\App.DAL.dll
+C:\Users\rio\Desktop\AppTemplate\App.DAL\bin\Debug\App.DAL.pdb
+C:\Users\rio\Desktop\AppTemplate\App.DAL\bin\Debug\App.Common.dll
+C:\Users\rio\Desktop\AppTemplate\App.DAL\bin\Debug\App.Entities.dll
+C:\Users\rio\Desktop\AppTemplate\App.DAL\bin\Debug\App.Common.pdb
+C:\Users\rio\Desktop\AppTemplate\App.DAL\bin\Debug\App.Entities.pdb
+C:\Users\rio\Desktop\AppTemplate\App.DAL\obj\Debug\App.DAL.csprojResolveAssemblyReference.cache
+C:\Users\rio\Desktop\AppTemplate\App.DAL\obj\Debug\App.DAL.dll
+C:\Users\rio\Desktop\AppTemplate\App.DAL\obj\Debug\App.DAL.pdb

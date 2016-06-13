@@ -1,0 +1,12 @@
+﻿@model System.Collections.Generic.List<App.Entities.User>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach(var user in Model)
+{
+    @user.Name;
+    @Html.Label(string.Join(",", user.Addresses.Select(x => x.Street).ToList()));
+    
+
+}

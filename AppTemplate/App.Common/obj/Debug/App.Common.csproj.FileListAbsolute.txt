@@ -1,0 +1,10 @@
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Common\bin\Debug\App.Common.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Common\bin\Debug\App.Common.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Common\obj\Debug\App.Common.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Common\obj\Debug\App.Common.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Common\obj\Debug\App.Common.pdb
+C:\Users\rio\Desktop\AppTemplate\App.Common\bin\Debug\App.Common.dll
+C:\Users\rio\Desktop\AppTemplate\App.Common\bin\Debug\App.Common.pdb
+C:\Users\rio\Desktop\AppTemplate\App.Common\obj\Debug\App.Common.csprojResolveAssemblyReference.cache
+C:\Users\rio\Desktop\AppTemplate\App.Common\obj\Debug\App.Common.dll
+C:\Users\rio\Desktop\AppTemplate\App.Common\obj\Debug\App.Common.pdb

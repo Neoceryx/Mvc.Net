@@ -1,0 +1,16 @@
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.BLL\bin\Debug\App.BLL.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.BLL\bin\Debug\App.BLL.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.BLL\obj\Debug\App.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.BLL\obj\Debug\App.BLL.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.BLL\obj\Debug\App.BLL.pdb
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.BLL.dll
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.BLL.pdb
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.Common.dll
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.DAL.dll
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.Entities.dll
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.Common.pdb
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.DAL.pdb
+C:\Users\rio\Desktop\AppTemplate\App.BLL\bin\Debug\App.Entities.pdb
+C:\Users\rio\Desktop\AppTemplate\App.BLL\obj\Debug\App.BLL.csprojResolveAssemblyReference.cache
+C:\Users\rio\Desktop\AppTemplate\App.BLL\obj\Debug\App.BLL.dll
+C:\Users\rio\Desktop\AppTemplate\App.BLL\obj\Debug\App.BLL.pdb

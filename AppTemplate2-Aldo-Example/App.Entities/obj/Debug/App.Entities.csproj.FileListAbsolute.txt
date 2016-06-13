@@ -1,0 +1,15 @@
+C:\Users\danii\OneDrive\AppTemplate\APP.Entities\bin\Debug\App.Entities.dll
+C:\Users\danii\OneDrive\AppTemplate\APP.Entities\bin\Debug\App.Entities.pdb
+C:\Users\danii\OneDrive\AppTemplate\APP.Entities\obj\Debug\App.Entities.dll
+C:\Users\danii\OneDrive\AppTemplate\APP.Entities\obj\Debug\App.Entities.pdb
+C:\Users\danii\OneDrive\AppTemplate\APP.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\lk\Desktop\AppTemplate2\APP.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\lk\Desktop\AppTemplate2\APP.Entities\obj\Debug\App.Entities.dll
+C:\Users\lk\Desktop\AppTemplate2\APP.Entities\obj\Debug\App.Entities.pdb
+C:\Users\lk\Desktop\AppTemplate2\APP.Entities\bin\Debug\App.Entities.dll
+C:\Users\lk\Desktop\AppTemplate2\APP.Entities\bin\Debug\App.Entities.pdb
+C:\Users\rio\Desktop\Dan-boot-cap\proyects\AppTemplate2\APP.Entities\bin\Debug\App.Entities.dll
+C:\Users\rio\Desktop\Dan-boot-cap\proyects\AppTemplate2\APP.Entities\bin\Debug\App.Entities.pdb
+C:\Users\rio\Desktop\Dan-boot-cap\proyects\AppTemplate2\APP.Entities\obj\Debug\App.Entities.csprojResolveAssemblyReference.cache
+C:\Users\rio\Desktop\Dan-boot-cap\proyects\AppTemplate2\APP.Entities\obj\Debug\App.Entities.dll
+C:\Users\rio\Desktop\Dan-boot-cap\proyects\AppTemplate2\APP.Entities\obj\Debug\App.Entities.pdb

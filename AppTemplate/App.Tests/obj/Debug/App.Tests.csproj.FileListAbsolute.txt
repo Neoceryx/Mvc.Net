@@ -1,0 +1,45 @@
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.abstractions.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.execution.desktop.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\App.Tests.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\App.Tests.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.assert.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.core.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.assert.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.assert.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.core.pdb
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\bin\Debug\xunit.core.xml
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\obj\Debug\App.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\obj\Debug\App.Tests.dll
+c:\Users\Juan Ojeda\Documents\Visual Studio 2013\Projects\App\App.Tests\obj\Debug\App.Tests.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\App.Tests.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\App.Tests.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.core.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.core.pdb
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.core.xml
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\obj\Debug\App.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\obj\Debug\App.Tests.dll
+C:\Users\Juan Ojeda\Desktop\AppTemplate\App.Tests\obj\Debug\App.Tests.pdb
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\App.Tests.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\App.Tests.pdb
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.assert.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.core.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.assert.xml
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.core.pdb
+C:\Users\rio\Desktop\AppTemplate\App.Tests\bin\Debug\xunit.core.xml
+C:\Users\rio\Desktop\AppTemplate\App.Tests\obj\Debug\App.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rio\Desktop\AppTemplate\App.Tests\obj\Debug\App.Tests.dll
+C:\Users\rio\Desktop\AppTemplate\App.Tests\obj\Debug\App.Tests.pdb

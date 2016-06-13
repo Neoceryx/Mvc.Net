@@ -1,0 +1,9 @@
+C:\Users\danii\OneDrive\AppTemplate\App.Common\bin\Debug\App.Common.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Common\bin\Debug\App.Common.pdb
+C:\Users\danii\OneDrive\AppTemplate\App.Common\obj\Debug\App.Common.dll
+C:\Users\danii\OneDrive\AppTemplate\App.Common\obj\Debug\App.Common.pdb
+E:\AppTemplate2\App.Common\bin\Debug\App.Common.dll
+E:\AppTemplate2\App.Common\bin\Debug\App.Common.pdb
+E:\AppTemplate2\App.Common\obj\Debug\App.Common.csprojResolveAssemblyReference.cache
+E:\AppTemplate2\App.Common\obj\Debug\App.Common.dll
+E:\AppTemplate2\App.Common\obj\Debug\App.Common.pdb
